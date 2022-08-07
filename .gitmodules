@@ -1,0 +1,4 @@
+[submodule "armadillo-code"]
+	path = armadillo-code
+	url = https://gitlab.com/conradsnicta/armadillo-code
+	branch = 11.2.x
